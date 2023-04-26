@@ -1,0 +1,13 @@
+{
+    "name": "innis-maggiore/silverstripe-smtp",
+    "description": "Custom SMTP mailer for SilverStripe",
+    "type": "silverstripe-module",
+    "authors": [{
+        "name": "Joe Chenevey",
+        "email": "web-dev@innismaggiore.com"
+    }],
+    "require": {
+        "silverstripe/framework": "3.*",
+        "phpmailer/phpmailer": "^6.5"
+    }
+}

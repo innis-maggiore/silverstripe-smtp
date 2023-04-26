@@ -1,0 +1,24 @@
+vendor
+framework
+
+!.gitignore
+!.htaccess
+
+# OS generated files #
+######################
+.DS_Store?
+ehthumbs.db
+Icon?
+Thumbs.db
+
+
+# Logs and databases #
+######################
+*.log
+*.sql
+*.sqlite
+
+
+# Editor temp files #
+#####################
+*.swp
